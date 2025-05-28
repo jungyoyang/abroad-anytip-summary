@@ -42,7 +42,7 @@
 
 ## 📽️ 프로젝트 발표 영상
 
-[▶ 발표 영상 보러가기 (YouTube)](https://youtu.be/your_video_id)
+[▶ 발표 영상 보러가기 (YouTube)]([https://youtu.be/your_video_id](https://www.youtube.com/watch?v=cKqUsANVloE))
 
 [![썸네일](https://img.youtube.com/vi/your_video_id/hqdefault.jpg)](https://youtu.be/your_video_id)
 
