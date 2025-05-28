@@ -36,7 +36,7 @@
 
 > 실제 서비스: https://abroadanytip.netlify.app/index.html
 
-<img src="https://github.com/jungyoyang/abroad-anytip-summary/blob/main/assets/anytip_preview.png?raw=true" width="700"/>
+<img src="https://github.com/jungyoyang/abroad-anytip-summary/blob/main/assets/anytip_preview.png?raw=true" width="420"/>
 
 
 
